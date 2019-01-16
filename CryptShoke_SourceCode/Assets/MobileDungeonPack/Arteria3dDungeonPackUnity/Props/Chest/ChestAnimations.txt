@@ -1,0 +1,15 @@
+Chest Animations
+
+The Chest has an idle, open and close animation
+Model formats including Direct X and FBX that are prefxied with an 'm' have multitrack named animations
+
+Idle
+Open
+Close
+
+For other engine formats, use the following start/stop times to trigger animations
+
+
+Idle      1
+Open   2-22
+Close 23-41

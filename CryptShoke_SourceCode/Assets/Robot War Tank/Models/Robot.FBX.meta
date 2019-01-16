@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 49a3789d7543a204e91b58fe0a711578
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: axle
+    100002: axle 1
+    100004: cable
+    100006: cable 1
+    100008: cable 2
+    100010: cable 3
+    100012: cap
+    100014: cap 1
+    100016: Dummy001
+    100018: Dummy002
+    100020: Dummy003
+    100022: Dummy004
+    100024: elbow
+    100026: finger
+    100028: finger 1
+    100030: finger 2
+    100032: gun barrel
+    100034: gun box
+    100036: head
+    100038: heel
+    100040: heel 1
+    100042: IK Chain001
+    100044: IK Chain002
+    100046: IK Chain003
+    100048: IK Chain004
+    100050: left_arm
+    100052: left_calf
+    100054: left_forearm
+    100056: left_shoulder
+    100058: left_thigh
+    100060: metacarpus
+    100062: pelvis
+    100064: right_arm
+    100066: right_calf
+    100068: right_shoulder
+    100070: right_thigh
+    100072: //RootNode
+    100074: Slider001
+    100076: tibia
+    100078: tibia 1
+    100080: toe
+    100082: toe 1
+    100084: toe 2
+    100086: toe 3
+    100088: torso
+    400000: axle
+    400002: axle 1
+    400004: cable
+    400006: cable 1
+    400008: cable 2
+    400010: cable 3
+    400012: cap
+    400014: cap 1
+    400016: Dummy001
+    400018: Dummy002
+    400020: Dummy003
+    400022: Dummy004
+    400024: elbow
+    400026: finger
+    400028: finger 1
+    400030: finger 2
+    400032: gun barrel
+    400034: gun box
+    400036: head
+    400038: heel
+    400040: heel 1
+    400042: IK Chain001
+    400044: IK Chain002
+    400046: IK Chain003
+    400048: IK Chain004
+    400050: left_arm
+    400052: left_calf
+    400054: left_forearm
+    400056: left_shoulder
+    400058: left_thigh
+    400060: metacarpus
+    400062: pelvis
+    400064: right_arm
+    400066: right_calf
+    400068: right_shoulder
+    400070: right_thigh
+    400072: //RootNode
+    400074: Slider001
+    400076: tibia
+    400078: tibia 1
+    400080: toe
+    400082: toe 1
+    400084: toe 2
+    400086: toe 3
+    400088: torso
+    2300000: axle
+    2300002: axle 1
+    2300004: cap
+    2300006: cap 1
+    2300008: elbow
+    2300010: finger
+    2300012: finger 1
+    2300014: finger 2
+    2300016: gun barrel
+    2300018: gun box
+    2300020: head
+    2300022: heel
+    2300024: heel 1
+    2300026: left_arm
+    2300028: left_calf
+    2300030: left_forearm
+    2300032: left_shoulder
+    2300034: left_thigh
+    2300036: metacarpus
+    2300038: pelvis
+    2300040: right_arm
+    2300042: right_calf
+    2300044: right_shoulder
+    2300046: right_thigh
+    2300048: tibia
+    2300050: tibia 1
+    2300052: toe
+    2300054: toe 1
+    2300056: toe 2
+    2300058: toe 3
+    2300060: torso
+    3300000: axle
+    3300002: axle 1
+    3300004: cap
+    3300006: cap 1
+    3300008: elbow
+    3300010: finger
+    3300012: finger 1
+    3300014: finger 2
+    3300016: gun barrel
+    3300018: gun box
+    3300020: head
+    3300022: heel
+    3300024: heel 1
+    3300026: left_arm
+    3300028: left_calf
+    3300030: left_forearm
+    3300032: left_shoulder
+    3300034: left_thigh
+    3300036: metacarpus
+    3300038: pelvis
+    3300040: right_arm
+    3300042: right_calf
+    3300044: right_shoulder
+    3300046: right_thigh
+    3300048: tibia
+    3300050: tibia 1
+    3300052: toe
+    3300054: toe 1
+    3300056: toe 2
+    3300058: toe 3
+    3300060: torso
+    4300000: pelvis
+    4300002: axle
+    4300004: right_thigh
+    4300006: tibia
+    4300008: right_calf
+    4300010: toe
+    4300012: toe
+    4300014: heel
+    4300016: torso
+    4300018: head
+    4300020: right_shoulder
+    4300022: cable
+    4300024: cable
+    4300026: right_arm
+    4300028: elbow
+    4300030: gun box
+    4300032: gun barrel
+    4300034: cap
+    4300036: cap
+    4300038: left_shoulder
+    4300040: cable
+    4300042: cable
+    4300044: left_arm
+    4300046: left_forearm
+    4300048: metacarpus
+    4300050: finger
+    4300052: finger
+    4300054: finger
+    4300056: axle
+    4300058: left_thigh
+    4300060: tibia
+    4300062: left_calf
+    4300064: toe
+    4300066: toe
+    4300068: heel
+    7400000: Idle
+    7400002: Shoot
+    7400004: Arm_attack
+    7400006: Walk
+    7400008: Damage
+    7400010: Death
+    9500000: //RootNode
+    13700000: cable
+    13700002: cable 1
+    13700004: cable 2
+    13700006: cable 3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Arm_attack
+      takeName: Take 001
+      firstFrame: 124
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Damage
+      takeName: Take 001
+      firstFrame: 181
+      lastFrame: 206
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 206
+      lastFrame: 231
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
