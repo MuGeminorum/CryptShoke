@@ -6,7 +6,7 @@ A 3D TPS game developed on Unity3D.
 
 ## Scenario ##
 
-Our protagonist is trapped in a crypt. Trolls and robots, ancient and future, are all mixed in this world. Faced with all sorts of enemies, how could he escape the maze with his gun? Let's see what he got!
+Our protagonist is trapped in a crypt. Trolls and robots, ancient and future, are all mixed in this world. Faced with all sorts of enemies, how could he escape the maze with his gun? Let's see what he will get!
 
 ## Download ##
 
