@@ -14,3 +14,18 @@ Download available at <https://github.com/zigzagbob/CryptShoke/releases>.
 
 Running game body may require `DirectX`, shortcut: [dxwebsetup.exe](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe).
 
+## Related folio ##
+
+[MIDI Digital Music Composition](https://zigzagbob.github.io/MathMusic/index.html)
+
+[Snake Game AI](https://github.com/zigzagbob/Snaqe)
+
+[Image Processing](https://github.com/zigzagbob/QPoisson)
+
+[My Cicada Specimens](https://zigzagbob.github.io/specimen/index.html)
+
+### My paintings ###
+
+![LE interface](https://zigzagbob.github.io/RmPNG/pirate.jpg)
+
+![LE interface](https://zigzagbob.github.io/RmPNG/cicada.jpg)
