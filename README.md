@@ -1,4 +1,10 @@
 # CryptShoke
+===============
+
+[![license](https://img.shields.io/github/license/zigzagbob/CryptShoke.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![AppVeyor](https://img.shields.io/appveyor/ci/zigzagbob/CryptShoke.svg)](https://ci.appveyor.com/project/zigzagbob/CryptShoke)
+[![Github All Releases](https://img.shields.io/github/downloads/zigzagbob/CryptShoke/total.svg)](https://github.com/zigzagbob/CryptShoke/releases)
+[![GitHub release](https://img.shields.io/github/release/zigzagbob/CryptShoke.svg)](https://github.com/zigzagbob/CryptShoke/releases/latest)
 
 A 3D TPS game developed on Unity3D.
 
