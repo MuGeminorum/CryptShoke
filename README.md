@@ -1,7 +1,7 @@
 # CryptShoke
 ===============
 
-[![license](https://img.shields.io/github/license/george-chou/CryptShoke.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![license](https://img.shields.io/github/license/george-chou/CryptShoke.svg)](https://github.com/george-chou/CryptShoke/blob/master/LICENSE)
 [![Github All Releases](https://img.shields.io/github/downloads/george-chou/CryptShoke/total.svg)](https://github.com/george-chou/CryptShoke/releases)
 [![GitHub release](https://img.shields.io/github/release/george-chou/CryptShoke.svg)](https://github.com/george-chou/CryptShoke/releases/latest)
 
