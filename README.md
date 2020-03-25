@@ -1,13 +1,13 @@
 # CryptShoke
 ===============
 
-[![license](https://img.shields.io/github/license/zigzagbob/CryptShoke.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![Github All Releases](https://img.shields.io/github/downloads/zigzagbob/CryptShoke/total.svg)](https://github.com/zigzagbob/CryptShoke/releases)
-[![GitHub release](https://img.shields.io/github/release/zigzagbob/CryptShoke.svg)](https://github.com/zigzagbob/CryptShoke/releases/latest)
+[![license](https://img.shields.io/github/license/george-chou/CryptShoke.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![Github All Releases](https://img.shields.io/github/downloads/george-chou/CryptShoke/total.svg)](https://github.com/george-chou/CryptShoke/releases)
+[![GitHub release](https://img.shields.io/github/release/george-chou/CryptShoke.svg)](https://github.com/george-chou/CryptShoke/releases/latest)
 
 A 3D TPS game developed on Unity3D.
 
-![LE interface](https://raw.githubusercontent.com/zigzagbob/CryptShoke/master/cover/crypt.png)
+![LE interface](https://raw.githubusercontent.com/george-chou/CryptShoke/master/cover/crypt.png)
 
 ## Scenario ##
 
@@ -15,7 +15,7 @@ Our protagonist is trapped in a crypt. Trolls and robots, ancient and future, ar
 
 ## Download ##
 
-Download available at <https://github.com/zigzagbob/CryptShoke/releases>.
+Download available at <https://github.com/george-chou/CryptShoke/releases>.
 
 Running game body may require `DirectX`, shortcut: [dxwebsetup.exe](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe).
 
