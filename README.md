@@ -1,11 +1,10 @@
 # CryptShoke
-===============
+
+A 3D TPS game developed on Unity3D;
 
 [![license](https://img.shields.io/github/license/george-chou/CryptShoke.svg)](https://github.com/george-chou/CryptShoke/blob/master/LICENSE)
 [![Github All Releases](https://img.shields.io/github/downloads/george-chou/CryptShoke/total.svg)](https://github.com/george-chou/CryptShoke/releases)
 [![GitHub release](https://img.shields.io/github/release/george-chou/CryptShoke.svg)](https://github.com/george-chou/CryptShoke/releases/latest)
-
-A 3D TPS game developed on Unity3D;
 
 ## Scenario ##
 
