@@ -7,7 +7,10 @@
 
 A 3D TPS game developed on Unity3D;
 
-![LE interface](https://raw.githubusercontent.com/george-chou/CryptShoke/master/cover/crypt.png)
+<div align=center>
+    <b>Figure 1: Game main interface</b>
+    <img width="605" src="cover/crypt.png"/>
+</div>
 
 ## Scenario ##
 
@@ -17,19 +20,19 @@ Our protagonist crosses into a crypt. Trolls and robots, ancient and future, are
 
 ### Protagonist codes ###
 
-![LE interface](https://raw.githubusercontent.com/george-chou/CryptShoke/master/cover/Protagonist_codes.PNG)
+![LE interface](cover/Protagonist_codes.PNG)
 
 ### AI codes ###
 
-![LE interface](https://raw.githubusercontent.com/george-chou/CryptShoke/master/cover/AI_codes.PNG)
+![LE interface](cover/AI_codes.PNG)
 
 ### Boss AI codes ###
 
-![LE interface](https://raw.githubusercontent.com/george-chou/CryptShoke/master/cover/boss_AI.PNG)
+![LE interface](cover/boss_AI.PNG)
 
 ### Other codes ###
 
-![LE interface](https://raw.githubusercontent.com/george-chou/CryptShoke/master/cover/other_codes.PNG)
+![LE interface](cover/other_codes.PNG)
 
 ## Future work ##
 
