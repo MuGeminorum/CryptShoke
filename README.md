@@ -13,6 +13,31 @@ A 3D TPS game developed on Unity3D;
 
 Our protagonist crosses into a crypt. Trolls and robots, ancient and future, are all mixed in this world. Faced with all sorts of enemies, how could he escape the maze with his gun? Let's see what he will get!
 
+## Main codes ##
+
+### Protagonist codes ###
+
+![LE interface](https://raw.githubusercontent.com/george-chou/CryptShoke/master/cover/Protagonist_codes.PNG)
+
+### AI codes ###
+
+![LE interface](https://raw.githubusercontent.com/george-chou/CryptShoke/master/cover/AI_codes.PNG)
+
+### Boss AI codes ###
+
+![LE interface](https://raw.githubusercontent.com/george-chou/CryptShoke/master/cover/boss_AI.PNG)
+
+### Other codes ###
+
+![LE interface](https://raw.githubusercontent.com/george-chou/CryptShoke/master/cover/other_codes.PNG)
+
+## Future work ##
+
+1. The pause button can be set;
+2. Set up more levels and switch between levels;
+3. More skills and more items;
+4. Program optimization.
+
 ## Download ##
 
 Download available at <https://github.com/george-chou/CryptShoke/releases>;
