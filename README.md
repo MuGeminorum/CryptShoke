@@ -8,7 +8,7 @@
 A 3D TPS game developed on Unity3D;
 
 <div align=center>
-    <b>Figure 1: Game main interface</b>
+    <b>Figure 1: Game main interface</b><br>
     <img width="605" src="cover/crypt.png"/>
 </div>
 
@@ -20,19 +20,31 @@ Our protagonist crosses into a crypt. Trolls and robots, ancient and future, are
 
 ### Protagonist codes ###
 
-![LE interface](cover/Protagonist_codes.PNG)
+<div align=center>
+    <b>Figure 1: Game main interface</b><br>
+    <img width="605" src="cover/Protagonist_codes.PNG"/>
+</div>
 
 ### AI codes ###
 
-![LE interface](cover/AI_codes.PNG)
+<div align=center>
+    <b>Figure 1: Game main interface</b><br>
+    <img width="605" src="cover/AI_codes.PNG"/>
+</div>
 
 ### Boss AI codes ###
 
-![LE interface](cover/boss_AI.PNG)
+<div align=center>
+    <b>Figure 1: Game main interface</b><br>
+    <img width="605" src="cover/boss_AI.PNG"/>
+</div>
 
 ### Other codes ###
 
-![LE interface](cover/other_codes.PNG)
+<div align=center>
+    <b>Figure 1: Game main interface</b><br>
+    <img width="605" src="other_codes.PNG"/>
+</div>
 
 ## Future work ##
 
