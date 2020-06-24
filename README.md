@@ -10,14 +10,14 @@ A 3D TPS game developed on Unity3D;
 
 Our protagonist crosses into a crypt. Trolls and robots, ancient and future, are all mixed in this world. Faced with all sorts of enemies, how could he escape the maze with his gun? Let's see what he will get!
 
+## Basic introduction to the game ##
+
+Operate the protagonist to walk in a crypt, and hit the boss in the boss room to win. The game is divided into three difficulty modes: simple, medium and difficult for players to choose.
+
 <div align=center>
     <b>Figure 1: Game main interface</b><br>
     <img width="605" src="cover/crypt.png"/>
 </div>
-
-## Basic introduction to the game ##
-
-Operate the protagonist to walk in a crypt, and hit the boss in the boss room to win. The game is divided into three difficulty modes: simple, medium and difficult for players to choose.
 
 ## Main codes ##
 
