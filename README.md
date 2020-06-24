@@ -6,6 +6,12 @@ A 3D TPS game developed on Unity3D;
 [![Github All Releases](https://img.shields.io/github/downloads/george-chou/CryptShoke/total.svg)](https://github.com/george-chou/CryptShoke/releases)
 [![GitHub release](https://img.shields.io/github/release/george-chou/CryptShoke.svg)](https://github.com/george-chou/CryptShoke/releases/latest)
 
+## Demo ##
+
+Link: [https://pan.baidu.com/s/1j3jkyqB12hixgIqjPW3yyg](https://pan.baidu.com/s/1j3jkyqB12hixgIqjPW3yyg) 
+
+Extraction code: xckx
+
 ## Scenario ##
 
 Our protagonist crosses into a crypt. Trolls and robots, ancient and future, are all mixed in this world. Faced with all sorts of enemies, how could he escape the maze with his gun? Let's see what he will get!
