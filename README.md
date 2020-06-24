@@ -8,9 +8,15 @@ A 3D TPS game developed on Unity3D;
 
 ## Demo ##
 
-Link: [https://pan.baidu.com/s/1j3jkyqB12hixgIqjPW3yyg](https://pan.baidu.com/s/1j3jkyqB12hixgIqjPW3yyg) 
+Link: <https://pan.baidu.com/s/1j3jkyqB12hixgIqjPW3yyg> 
 
 Extraction code: xckx
+
+## Download ##
+
+Download available at <https://github.com/george-chou/CryptShoke/releases>;
+
+Running game body may require `DirectX`, shortcut: [dxwebsetup.exe](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe).
 
 ## Scenario ##
 
@@ -62,9 +68,9 @@ Operate the protagonist to walk in a crypt, and hit the boss in the boss room to
 3. More skills and more items;
 4. Program optimization.
 
-## Download ##
+## Reference ##
 
-Download available at <https://github.com/george-chou/CryptShoke/releases>;
-
-Running game body may require `DirectX`, shortcut: [dxwebsetup.exe](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe).
-
+[1] Unity3D official website: <https://unity.com/>
+[2] MANEW: <http://www.manew.com/>
+[3] Unity Manual: <https://docs.unity3d.com/Manual/index.html>
+[4] CSDN: <https://www.csdn.net/>
