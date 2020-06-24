@@ -1,0 +1,30 @@
+CorridorDoor Animations
+
+This Door fits the pieces with Doorways cut into the dungeon corridor pieces that have an arched door cut into the wall - 
+not to be used with DOorDivides - they have their own doors
+
+
+Door has 4 Animations and features Multitrack Animations in the formats Direct X and FBX which are prefixed
+with an 'm'.
+Engines like Unity, or other engines supporting multriack animations can take advantage of these formats, allowing
+for the animation name to be used by name within the engine.
+
+OPenStyleA
+CloseStyleA
+
+OpenStyleB
+CloseStyleB
+
+A much requested feature i see continually for dungeon styled kits, is that doors open both ways, so that in effect the
+doors always open away from the player and not go through them, thus two opening styles are provided
+
+
+Animations are also provided as single track for engines that do not support multitrack
+
+
+OpenStyleA      0-39
+CloseStyleA    40-80
+
+OpenStyleB     81-110
+CloseStyleB   120-156
+ 
