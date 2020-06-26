@@ -1,10 +1,9 @@
 # CryptShoke
 
-A 3D TPS game developed on Unity3D.
+A 3D TPS game developed on Unity3D
 
 [![license](https://img.shields.io/github/license/george-chou/CryptShoke.svg)](https://github.com/george-chou/CryptShoke/blob/master/LICENSE)
 [![Github All Releases](https://img.shields.io/github/downloads-pre/george-chou/CryptShoke/v1.1/total)](https://github.com/george-chou/CryptShoke/releases)
-<!--[![GitHub release](https://img.shields.io/github/pre-release/george-chou/CryptShoke.svg)](https://github.com/george-chou/CryptShoke/releases/latest)-->
 
 ## Demo ##
 
@@ -70,10 +69,7 @@ Operate the protagonist to walk in a crypt, and hit the boss in the boss room to
 
 ## Reference ##
 
-[1] Unity3D official website: <https://unity.com/>
-
-[2] MANEW: <http://www.manew.com/>
-
-[3] Unity Manual: <https://docs.unity3d.com/Manual/index.html>
-
+[1] Unity3D official website: <https://unity.com/><br>
+[2] MANEW: <http://www.manew.com/><br>
+[3] Unity Manual: <https://docs.unity3d.com/Manual/index.html><br>
 [4] CSDN: <https://www.csdn.net/>
