@@ -24,7 +24,7 @@ Our protagonist crosses into a crypt. Trolls and robots, ancient and future, are
 
 ## Basic introduction to the game ##
 
-Operate the protagonist to walk in a crypt, and hit the boss in the boss room to win. The game is divided into three difficulty modes: simple, medium and difficult for players to choose.
+Operate the protagonist to walk in a crypt, and hit the boss in the boss room to win. The game is divided into three difficulty modes: simple, medium, and difficult for players to choose.
 
 <div align=center>
     <b>Figure 1: Game main interface</b><br>
