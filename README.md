@@ -27,7 +27,7 @@ Operate the protagonist to walk in a crypt, and hit the boss in the boss room to
 
 <div align=center>
     <b>Figure 1: Game main interface</b><br>
-    <img width="605" src="cover/crypt.png"/>
+    <img width="605" src="https://george-chou.github.io/covers/CryptShoke/crypt.png"/>
 </div>
 
 ## Main codes ##
@@ -36,28 +36,28 @@ Operate the protagonist to walk in a crypt, and hit the boss in the boss room to
 
 <div align=center>
     <b>Figure 2: Protagonist codes</b><br>
-    <img width="605" src="cover/Protagonist_codes.PNG"/>
+    <img width="605" src="https://george-chou.github.io/covers/CryptShoke/Protagonist_codes.PNG"/>
 </div>
 
 ### AI codes ###
 
 <div align=center>
     <b>Figure 3: AI codes</b><br>
-    <img width="605" src="cover/AI_codes.PNG"/>
+    <img width="605" src="https://george-chou.github.io/covers/CryptShoke/AI_codes.PNG"/>
 </div>
 
 ### Boss AI codes ###
 
 <div align=center>
     <b>Figure 4: Boss AI codes</b><br>
-    <img width="605" src="cover/boss_AI.PNG"/>
+    <img width="605" src="https://george-chou.github.io/covers/CryptShoke/boss_AI.PNG"/>
 </div>
 
 ### Other codes ###
 
 <div align=center>
     <b>Figure 5: Other codes</b><br>
-    <img width="605" src="cover/other_codes.PNG"/>
+    <img width="605" src="https://george-chou.github.io/covers/CryptShoke/other_codes.PNG"/>
 </div>
 
 ## Future work ##
