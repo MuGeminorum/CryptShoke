@@ -7,9 +7,7 @@ A 3D TPS game developed on Unity3D
 
 ## Demo ##
 
-Link: <https://www.bilibili.com/video/BV11S4y1R7hW/> 
-
-Extraction code: xckx
+Link: <https://www.bilibili.com/video/BV11S4y1R7hW/>
 
 ## Download ##
 
