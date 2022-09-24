@@ -7,7 +7,7 @@ A 3D TPS game developed on Unity3D
 
 ## Demo ##
 
-Link: <https://www.bilibili.com/video/BV11S4y1R7hW/>
+Link: <https://www.bilibili.com/video/BV11S4y1R7hW>
 
 ## Download ##
 
@@ -67,7 +67,7 @@ Operate the protagonist to walk in a crypt, and hit the boss in the boss room to
 
 ## Reference ##
 
-[1] Unity3D official website: <https://unity.com/><br>
-[2] MANEW: <http://www.manew.com/><br>
+[1] Unity3D official website: <https://unity.com><br>
+[2] MANEW: <http://www.manew.com><br>
 [3] Unity Manual: <https://docs.unity3d.com/Manual/index.html><br>
-[4] CSDN: <https://www.csdn.net/>
+[4] CSDN: <https://www.csdn.net>
