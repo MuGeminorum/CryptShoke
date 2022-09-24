@@ -25,7 +25,7 @@ Operate the protagonist to walk in a crypt, and hit the boss in the boss room to
 
 <div align=center>
     <b>Figure 1: Game main interface</b><br>
-    <img width="605" src="https://picrepo.netlify.app/CryptShoke/crypt.png"/>
+    <img width="605" src="https://picrepo.netlify.app/CryptShoke/cover.png"/>
 </div>
 
 ## Main codes ##
