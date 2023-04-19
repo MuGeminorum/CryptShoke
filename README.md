@@ -25,7 +25,7 @@ Operate the protagonist to walk in a crypt, and hit the boss in the boss room to
 
 <div align=center>
     <b>Figure 1: Game main interface</b><br>
-    <img width="605" src="https://picrepo.netlify.app/CryptShoke/cover.png"/>
+    <img width="605" src="https://user-images.githubusercontent.com/20459298/233119603-87a1d1ce-142c-49b1-b96b-57620a1d1a6a.png"/>
 </div>
 
 ## Main codes ##
@@ -34,28 +34,28 @@ Operate the protagonist to walk in a crypt, and hit the boss in the boss room to
 
 <div align=center>
     <b>Figure 2: Protagonist codes</b><br>
-    <img width="605" src="https://picrepo.netlify.app/CryptShoke/Protagonist_codes.PNG"/>
+    <img width="605" src="https://user-images.githubusercontent.com/20459298/233119694-4ec9dd86-eefa-46de-b084-5e4a1de17549.PNG"/>
 </div>
 
 ### AI codes ###
 
 <div align=center>
     <b>Figure 3: AI codes</b><br>
-    <img width="605" src="https://picrepo.netlify.app/CryptShoke/AI_codes.PNG"/>
+    <img width="605" src="https://user-images.githubusercontent.com/20459298/233119717-7a9bb427-4cae-4bd8-8d2c-4a1ada562321.PNG"/>
 </div>
 
 ### Boss AI codes ###
 
 <div align=center>
     <b>Figure 4: Boss AI codes</b><br>
-    <img width="605" src="https://picrepo.netlify.app/CryptShoke/boss_AI.PNG"/>
+    <img width="605" src="https://user-images.githubusercontent.com/20459298/233119754-e139cb16-94e2-46bd-bed9-228f35e6c140.PNG"/>
 </div>
 
 ### Other codes ###
 
 <div align=center>
     <b>Figure 5: Other codes</b><br>
-    <img width="605" src="https://picrepo.netlify.app/CryptShoke/other_codes.PNG"/>
+    <img width="605" src="https://user-images.githubusercontent.com/20459298/233119778-a985c7f4-5be8-476c-9e33-841e80fe85cd.PNG"/>
 </div>
 
 ## Future work ##
