@@ -1,11 +1,13 @@
 # CryptShoke
 A 3D TPS game developed on Unity3D
+
 [![license](https://img.shields.io/github/license/MuGeminorum/CryptShoke.svg)](https://github.com/MuGeminorum/CryptShoke/blob/master/LICENSE)
 [![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/CryptShoke/v1.1/total)](https://github.com/MuGeminorum/CryptShoke/releases)
 
 ## Download
-Download available at <https://github.com/MuGeminorum/CryptShoke/releases>;
-Running game body may require `DirectX`, shortcut: [dxwebsetup.exe](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe).
+Download available at <https://github.com/MuGeminorum/CryptShoke/releases>
+
+Running game body may require `DirectX`, shortcut: [dxwebsetup.exe](https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe)
 
 ## Scenario
 Our protagonist crosses into a crypt. Trolls and robots, ancient and future, are all mixed in this world. Faced with all sorts of enemies, how could he escape the maze with his gun? Let's see what he will get!
@@ -44,10 +46,10 @@ Operate the protagonist to walk in a crypt, and hit the boss in the boss room to
 </div>
 
 ## Future work
-1. The pause button can be set;
-2. Set up more levels and switch between levels;
-3. More skills and more items;
-4. Program optimization.
+1. The pause button can be set
+2. Set up more levels and switch between levels
+3. More skills and more items
+4. Program optimization
 
 ## Reference
 [1] Unity3D official website: <https://unity.com><br>
