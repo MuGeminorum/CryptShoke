@@ -1,8 +1,8 @@
 # CryptShoke
-A 3D TPS game developed on Unity3D
-
 [![license](https://img.shields.io/github/license/MuGeminorum/CryptShoke.svg)](https://github.com/MuGeminorum/CryptShoke/blob/master/LICENSE)
 [![Github All Releases](https://img.shields.io/github/downloads-pre/MuGeminorum/CryptShoke/v1.1/total)](https://github.com/MuGeminorum/CryptShoke/releases)
+
+A 3D TPS game developed on Unity3D
 
 ## Download
 Download available at <https://github.com/MuGeminorum/CryptShoke/releases>
